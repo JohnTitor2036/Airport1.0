@@ -1,0 +1,2 @@
+.\bin\cake i18n extract
+Press ENTER all the way

@@ -1,0 +1,1045 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-10-11 18:25+0000\n"
+"PO-Revision-Date: 2018-10-11 14:35-0400\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: ja_JP\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: Controller/AircraftsController.php:46
+msgid "Your aircraft has been saved."
+msgstr "機体が保存されました。"
+
+#: Controller/AircraftsController.php:50
+msgid "Unable to add your aircraft."
+msgstr "航空機を追加できません。"
+
+#: Controller/AircraftsController.php:77
+msgid "Your aircraft has been updated."
+msgstr "機体が更新されました。"
+
+#: Controller/AircraftsController.php:80
+msgid "Unable to update your aircraft."
+msgstr "航空機を更新できません。"
+
+#: Controller/AircraftsController.php:104
+msgid "The aircraft has been deleted."
+msgstr "機体は削除されました。"
+
+#: Controller/AircraftsController.php:106;109
+msgid "The aircraft could not be deleted. Please, try again."
+msgstr "航空機を削除できませんでした。もう一度やり直してください。"
+
+#: Controller/AirlinesController.php:61;93
+msgid "The airline has been saved."
+msgstr "航空会社は助かりました。"
+
+#: Controller/AirlinesController.php:66;97
+msgid "The airline could not be saved. Please, try again."
+msgstr "航空会社は保存できませんでした。もう一度やり直してください。"
+
+#: Controller/AirlinesController.php:129
+msgid "The airline has been deleted."
+msgstr "航空会社は削除されました。"
+
+#: Controller/AirlinesController.php:132;141
+msgid "The airline could not be deleted. Please, try again."
+msgstr "航空会社を削除できませんでした。もう一度やり直してください。"
+
+#: Controller/FilesController.php:36
+msgid "You don't have the right to do that"
+msgstr "あなたにはそれをする権利がない"
+
+#: Controller/FilesController.php:83;144
+msgid "Logo has been uploaded and inserted successfully."
+msgstr "ロゴをアップロードし、正常に挿入されました。"
+
+#: Controller/FilesController.php:86;89;147;150
+msgid "Unable to upload logo, please try again."
+msgstr "ロゴをアップロードできません。"
+
+#: Controller/FilesController.php:92
+msgid "The airline don't have a logo"
+msgstr "航空会社はロゴを持っていない"
+
+#: Controller/FilesController.php:154
+msgid "No logo have been upload"
+msgstr "いいえロゴはアップロードされている"
+
+#: Controller/FilesController.php:200
+msgid "The logo has been deleted."
+msgstr "ロゴが削除されました。"
+
+#: Controller/FilesController.php:202;205
+msgid "The logo could not be deleted. Please, try again."
+msgstr "ロゴを削除できませんでした。もう一度やり直してください。"
+
+#: Controller/FlightSchedulesController.php:60;93
+msgid "The flight schedule has been saved."
+msgstr "フライトスケジュールが保存されました。"
+
+#: Controller/FlightSchedulesController.php:64;96
+msgid "The flight schedule could not be saved. Please, try again."
+msgstr ""
+"フライトスケジュールを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/FlightSchedulesController.php:119
+msgid "The flight schedule has been deleted."
+msgstr "フライトスケジュールは削除されました。"
+
+#: Controller/FlightSchedulesController.php:121;124
+msgid "The flight schedule could not be deleted. Please, try again."
+msgstr ""
+"フライトスケジュールを削除できませんでした。もう一度やり直してください。"
+
+#: Controller/HangarsController.php:60;90
+msgid "The hangar has been saved."
+msgstr "格納庫は助かった。"
+
+#: Controller/HangarsController.php:64;94
+msgid "The hangar could not be saved. Please, try again."
+msgstr "格納庫を保存できませんでした。もう一度やり直してください。"
+
+#: Controller/HangarsController.php:115
+msgid "The hangar has been deleted."
+msgstr "格納庫は削除されました。"
+
+#: Controller/HangarsController.php:117;120
+msgid "The hangar could not be deleted. Please, try again."
+msgstr "格納庫を削除できませんでした。もう一度やり直してください。"
+
+#: Controller/PilotsController.php:60;90
+msgid "The pilot has been saved."
+msgstr "パイロットが保存されました。"
+
+#: Controller/PilotsController.php:64;94
+msgid "The pilot could not be saved. Please, try again."
+msgstr "パイロットを保存できませんでした。もう一度やり直してください。"
+
+#: Controller/PilotsController.php:115
+msgid "The pilot has been deleted."
+msgstr "パイロットは削除されました。"
+
+#: Controller/PilotsController.php:117;120
+msgid "The pilot could not be deleted. Please, try again."
+msgstr "パイロットを削除できませんでした。もう一度やり直してください。"
+
+#: Controller/UsersController.php:75;106
+msgid "The user could not be saved. Please, try again."
+msgstr "ユーザーを保存できませんでした。確認して再度、操作してください。"
+
+#: Controller/UsersController.php:99
+msgid "The user has been saved."
+msgstr "ユーザーは保存されました。"
+
+#: Controller/UsersController.php:132
+msgid "The user has been deleted."
+msgstr "ユーザーは削除されました。"
+
+#: Controller/UsersController.php:134;137
+msgid "The user could not be deleted. Please, try again."
+msgstr "ユーザーを削除できませんでした。確認して再度、操作してください。"
+
+#: Controller/UsersController.php:151
+msgid "You need to confirm you email"
+msgstr "あなたは電子メールを確認する必要があります"
+
+#: Controller/UsersController.php:156
+msgid "Your username or password is incorrect."
+msgstr "ユーザー名またはパスワードが正しくありません。"
+
+#: Controller/UsersController.php:162
+msgid "You are now logged out."
+msgstr "あなたはログアウトしました。"
+
+#: Controller/UsersController.php:172
+msgid "Please confirm your email"
+msgstr "メールを確認してください"
+
+#: Controller/UsersController.php:174
+msgid "A confirmation email has been sent to "
+msgstr "確認メールが送信されました "
+
+#: Controller/UsersController.php:176
+msgid "Error, the confirmation email can't be sent to "
+msgstr "エラーが発生すると、確認メールを送信できません "
+
+#: Controller/UsersController.php:187
+msgid "Thanks "
+msgstr "感謝 "
+
+#: Controller/UsersController.php:189
+msgid "This email is already confirmed"
+msgstr "このメールは既に確認済みです"
+
+#: Template/Aircrafts/add.ctp:9 Template/Aircrafts/edit.ctp:10
+#: Template/Aircrafts/index.ctp:11;33 Template/Aircrafts/view.ctp:10;86
+#: Template/Airlines/add.ctp:9 Template/Airlines/edit.ctp:10
+#: Template/Airlines/index.ctp:12;34 Template/Airlines/view.ctp:11;92
+#: Template/App/about.ctp:8 Template/Files/add.ctp:9 Template/Files/edit.ctp:9
+#: Template/FlightSchedules/add.ctp:9 Template/FlightSchedules/edit.ctp:10
+#: Template/FlightSchedules/index.ctp:11;34
+#: Template/FlightSchedules/view.ctp:10 Template/Hangars/add.ctp:9
+#: Template/Hangars/edit.ctp:10 Template/Hangars/index.ctp:11;32
+#: Template/Hangars/view.ctp:10;73 Template/Pilots/add.ctp:9
+#: Template/Pilots/edit.ctp:10 Template/Pilots/index.ctp:11;34
+#: Template/Pilots/view.ctp:10;85 Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:10 Template/Users/error_confirm.ctp:12
+#: Template/Users/index.ctp:11;34 Template/Users/login.ctp:8
+#: Template/Users/view.ctp:11;65;91;118;145;172
+msgid "Actions"
+msgstr "アクション"
+
+#: Template/Aircrafts/add.ctp:10 Template/Aircrafts/edit.ctp:18
+#: Template/Aircrafts/view.ctp:22 Template/Airlines/add.ctp:11
+#: Template/Airlines/edit.ctp:19 Template/Airlines/index.ctp:20
+#: Template/Airlines/view.ctp:24 Template/App/about.ctp:9
+#: Template/Files/add.ctp:11 Template/Files/edit.ctp:11
+#: Template/FlightSchedules/add.ctp:11 Template/FlightSchedules/edit.ctp:19
+#: Template/FlightSchedules/index.ctp:19 Template/FlightSchedules/view.ctp:23
+#: Template/Hangars/add.ctp:11 Template/Hangars/edit.ctp:19
+#: Template/Hangars/index.ctp:19 Template/Hangars/view.ctp:23
+#: Template/Pilots/add.ctp:11 Template/Pilots/edit.ctp:19
+#: Template/Pilots/index.ctp:19 Template/Pilots/view.ctp:23
+#: Template/Users/add.ctp:11 Template/Users/edit.ctp:18
+#: Template/Users/error_confirm.ctp:13 Template/Users/index.ctp:19
+#: Template/Users/login.ctp:9 Template/Users/view.ctp:26
+msgid "List Aircrafts"
+msgstr "リストの航空機"
+
+#: Template/Aircrafts/add.ctp:11 Template/Aircrafts/edit.ctp:19
+#: Template/Aircrafts/index.ctp:19 Template/Aircrafts/view.ctp:23
+#: Template/Airlines/add.ctp:10 Template/Airlines/edit.ctp:18
+#: Template/Airlines/view.ctp:23 Template/App/about.ctp:10
+#: Template/Files/add.ctp:10 Template/Files/edit.ctp:10
+#: Template/FlightSchedules/add.ctp:12 Template/FlightSchedules/edit.ctp:20
+#: Template/FlightSchedules/index.ctp:20 Template/FlightSchedules/view.ctp:24
+#: Template/Hangars/add.ctp:12 Template/Hangars/edit.ctp:20
+#: Template/Hangars/index.ctp:20 Template/Hangars/view.ctp:24
+#: Template/Pilots/add.ctp:12 Template/Pilots/edit.ctp:20
+#: Template/Pilots/index.ctp:20 Template/Pilots/view.ctp:24
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:19
+#: Template/Users/error_confirm.ctp:14 Template/Users/index.ctp:20
+#: Template/Users/login.ctp:10 Template/Users/view.ctp:27
+msgid "List Airlines"
+msgstr "リスト航空会社"
+
+#: Template/Aircrafts/add.ctp:12 Template/Aircrafts/edit.ctp:20
+#: Template/Aircrafts/index.ctp:20 Template/Aircrafts/view.ctp:24
+#: Template/Airlines/add.ctp:12 Template/Airlines/edit.ctp:20
+#: Template/Airlines/index.ctp:21 Template/Airlines/view.ctp:25
+#: Template/App/about.ctp:11 Template/Files/add.ctp:12
+#: Template/Files/edit.ctp:12 Template/FlightSchedules/add.ctp:13
+#: Template/FlightSchedules/edit.ctp:21 Template/FlightSchedules/index.ctp:21
+#: Template/FlightSchedules/view.ctp:25 Template/Hangars/add.ctp:10
+#: Template/Hangars/edit.ctp:18 Template/Hangars/view.ctp:22
+#: Template/Pilots/add.ctp:13 Template/Pilots/edit.ctp:21
+#: Template/Pilots/index.ctp:21 Template/Pilots/view.ctp:25
+#: Template/Users/add.ctp:13 Template/Users/edit.ctp:20
+#: Template/Users/error_confirm.ctp:15 Template/Users/index.ctp:21
+#: Template/Users/login.ctp:11 Template/Users/view.ctp:28
+msgid "List Hangars"
+msgstr "リスト格納庫"
+
+#: Template/Aircrafts/add.ctp:13 Template/Aircrafts/edit.ctp:21
+#: Template/Aircrafts/index.ctp:21 Template/Aircrafts/view.ctp:25
+#: Template/Airlines/add.ctp:13 Template/Airlines/edit.ctp:21
+#: Template/Airlines/index.ctp:22 Template/Airlines/view.ctp:26
+#: Template/App/about.ctp:12 Template/Files/add.ctp:13
+#: Template/Files/edit.ctp:13 Template/FlightSchedules/add.ctp:10
+#: Template/FlightSchedules/edit.ctp:18 Template/FlightSchedules/view.ctp:22
+#: Template/Hangars/add.ctp:13 Template/Hangars/edit.ctp:21
+#: Template/Hangars/index.ctp:21 Template/Hangars/view.ctp:25
+#: Template/Pilots/add.ctp:14 Template/Pilots/edit.ctp:22
+#: Template/Pilots/index.ctp:22 Template/Pilots/view.ctp:26
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:21
+#: Template/Users/error_confirm.ctp:16 Template/Users/index.ctp:22
+#: Template/Users/login.ctp:12 Template/Users/view.ctp:29
+msgid "List Flight Schedules"
+msgstr "フライトスケジュールの一覧表示"
+
+#: Template/Aircrafts/add.ctp:14 Template/Aircrafts/edit.ctp:22
+#: Template/Aircrafts/index.ctp:22 Template/Aircrafts/view.ctp:26
+#: Template/Airlines/add.ctp:14 Template/Airlines/edit.ctp:22
+#: Template/Airlines/index.ctp:23 Template/Airlines/view.ctp:27
+#: Template/App/about.ctp:13 Template/Files/add.ctp:14
+#: Template/Files/edit.ctp:14 Template/FlightSchedules/add.ctp:14
+#: Template/FlightSchedules/edit.ctp:22 Template/FlightSchedules/index.ctp:22
+#: Template/FlightSchedules/view.ctp:26 Template/Hangars/add.ctp:14
+#: Template/Hangars/edit.ctp:22 Template/Hangars/index.ctp:22
+#: Template/Hangars/view.ctp:26 Template/Pilots/add.ctp:10
+#: Template/Pilots/edit.ctp:18 Template/Pilots/view.ctp:22
+#: Template/Users/add.ctp:15 Template/Users/edit.ctp:22
+#: Template/Users/error_confirm.ctp:17 Template/Users/index.ctp:23
+#: Template/Users/login.ctp:13 Template/Users/view.ctp:30
+msgid "List Pilots"
+msgstr "リストのパイロット"
+
+#: Template/Aircrafts/add.ctp:20
+msgid "Add Aircraft"
+msgstr "航空機の追加"
+
+#: Template/Aircrafts/add.ctp:32 Template/Aircrafts/edit.ctp:40
+#: Template/FlightSchedules/add.ctp:33 Template/FlightSchedules/edit.ctp:40
+#: Template/Hangars/add.ctp:29 Template/Hangars/edit.ctp:37
+#: Template/Pilots/add.ctp:31 Template/Pilots/edit.ctp:39
+#: Template/Users/add.ctp:31 Template/Users/edit.ctp:38
+msgid "Submit"
+msgstr "送信"
+
+#: Template/Aircrafts/edit.ctp:14 Template/Aircrafts/index.ctp:46
+#: Template/Aircrafts/view.ctp:98 Template/Airlines/edit.ctp:14
+#: Template/Airlines/index.ctp:61 Template/Airlines/view.ctp:103
+#: Template/FlightSchedules/edit.ctp:14 Template/FlightSchedules/index.ctp:51
+#: Template/Hangars/edit.ctp:14 Template/Hangars/index.ctp:44
+#: Template/Hangars/view.ctp:84 Template/Pilots/edit.ctp:14
+#: Template/Pilots/index.ctp:48 Template/Pilots/view.ctp:97
+#: Template/Users/edit.ctp:14 Template/Users/view.ctp:76;101;130;155;184
+msgid "Delete"
+msgstr "削除"
+
+#: Template/Aircrafts/edit.ctp:14 Template/Aircrafts/index.ctp:46
+#: Template/Aircrafts/view.ctp:16;98 Template/Airlines/edit.ctp:14
+#: Template/Airlines/index.ctp:61 Template/Airlines/view.ctp:17;103
+#: Template/FlightSchedules/edit.ctp:14 Template/FlightSchedules/index.ctp:51
+#: Template/FlightSchedules/view.ctp:16 Template/Hangars/edit.ctp:14
+#: Template/Hangars/index.ctp:44 Template/Hangars/view.ctp:16;84
+#: Template/Pilots/view.ctp:97 Template/Users/edit.ctp:14
+#: Template/Users/view.ctp:17;76;101;130;155
+msgid "Are you sure you want to delete {0}?"
+msgstr "{0} を削除してもよろしいですか?"
+
+#: Template/Aircrafts/edit.ctp:28 Template/Aircrafts/view.ctp:15
+msgid "Edit Aircraft"
+msgstr "航空機の編集"
+
+#: Template/Aircrafts/index.ctp:15 Template/Aircrafts/view.ctp:18
+msgid "New Aircraft"
+msgstr "新しい航空機"
+
+#: Template/Aircrafts/index.ctp:26
+msgid "Aircrafts"
+msgstr "航空機"
+
+#: Template/Aircrafts/index.ctp:43 Template/Aircrafts/view.ctp:95
+#: Template/Airlines/index.ctp:58 Template/Airlines/view.ctp:100
+#: Template/FlightSchedules/index.ctp:48 Template/Hangars/index.ctp:41
+#: Template/Hangars/view.ctp:81 Template/Pilots/index.ctp:45
+#: Template/Pilots/view.ctp:94 Template/Users/index.ctp:52
+#: Template/Users/view.ctp:73;98;127;152;181
+#: View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr "表示"
+
+#: Template/Aircrafts/index.ctp:45 Template/Aircrafts/view.ctp:97
+#: Template/Airlines/index.ctp:60 Template/Airlines/view.ctp:102
+#: Template/FlightSchedules/index.ctp:50 Template/Hangars/index.ctp:43
+#: Template/Hangars/view.ctp:83 Template/Pilots/index.ctp:47
+#: Template/Pilots/view.ctp:96 Template/Users/index.ctp:53
+#: Template/Users/view.ctp:75;100;129;154;183
+msgid "Edit"
+msgstr "編集"
+
+#: Template/Aircrafts/index.ctp:55 Template/Airlines/index.ctp:70
+#: Template/FlightSchedules/index.ctp:60 Template/Hangars/index.ctp:53
+#: Template/Pilots/index.ctp:57 Template/Users/index.ctp:63
+msgid "first"
+msgstr "最初"
+
+#: Template/Aircrafts/index.ctp:56 Template/Airlines/index.ctp:71
+#: Template/FlightSchedules/index.ctp:61 Template/Hangars/index.ctp:54
+#: Template/Pilots/index.ctp:58 Template/Users/index.ctp:64
+msgid "previous"
+msgstr "前へ"
+
+#: Template/Aircrafts/index.ctp:58 Template/Airlines/index.ctp:73
+#: Template/FlightSchedules/index.ctp:63 Template/Hangars/index.ctp:56
+#: Template/Pilots/index.ctp:60 Template/Users/index.ctp:66
+msgid "next"
+msgstr "次へ"
+
+#: Template/Aircrafts/index.ctp:59 Template/Airlines/index.ctp:74
+#: Template/FlightSchedules/index.ctp:64 Template/Hangars/index.ctp:57
+#: Template/Pilots/index.ctp:61 Template/Users/index.ctp:67
+msgid "last"
+msgstr "最後"
+
+#: Template/Aircrafts/index.ctp:61 Template/Airlines/index.ctp:76
+#: Template/FlightSchedules/index.ctp:66 Template/Hangars/index.ctp:59
+#: Template/Pilots/index.ctp:63 Template/Users/index.ctp:69
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+"{{pages}}ページ中{{page}}ページ目, {{count}}件のうち{{current}}件のレコードを"
+"表示中"
+
+#: Template/Aircrafts/view.ctp:16
+msgid "Delete Aircraft"
+msgstr "航空機の削除"
+
+#: Template/Aircrafts/view.ctp:33 Template/Airlines/view.ctp:90
+msgid "Airline"
+msgstr "エアライン"
+
+#: Template/Aircrafts/view.ctp:37 Template/Hangars/view.ctp:71
+msgid "Hangar"
+msgstr "ハンガー"
+
+#: Template/Aircrafts/view.ctp:44 Template/Airlines/view.ctp:37
+#: Template/FlightSchedules/view.ctp:44 Template/Hangars/view.ctp:36
+#: Template/Pilots/view.ctp:39
+msgid "User"
+msgstr "ユーザー"
+
+#: Template/Aircrafts/view.ctp:53 Template/Airlines/view.ctp:89
+#: Template/Hangars/view.ctp:70 Template/Users/view.ctp:62
+msgid "Model"
+msgstr "モデル"
+
+#: Template/Aircrafts/view.ctp:57 Template/Airlines/view.ctp:54
+#: Template/FlightSchedules/view.ctp:61 Template/Hangars/view.ctp:53
+#: Template/Pilots/view.ctp:64
+msgid "Other Detail"
+msgstr "その他の詳細"
+
+#: Template/Aircrafts/view.ctp:61
+msgid "Capacity"
+msgstr "対応人数"
+
+#: Template/Aircrafts/view.ctp:65
+msgid "Weight"
+msgstr "重量"
+
+#: Template/Aircrafts/view.ctp:69 Template/Airlines/view.ctp:58
+#: Template/FlightSchedules/view.ctp:73 Template/Hangars/view.ctp:57
+#: Template/Pilots/view.ctp:68 Template/Users/view.ctp:49
+msgid "Created"
+msgstr "作成日"
+
+#: Template/Aircrafts/view.ctp:73 Template/Airlines/view.ctp:62
+#: Template/FlightSchedules/view.ctp:77 Template/Hangars/view.ctp:61
+#: Template/Pilots/view.ctp:72 Template/Users/view.ctp:53
+msgid "Modified"
+msgstr "更新日"
+
+#: Template/Aircrafts/view.ctp:78 Template/Pilots/view.ctp:77
+#: Template/Users/view.ctp:110
+msgid "Related Flight Schedules"
+msgstr "関連フライトスケジュール"
+
+#: Template/Aircrafts/view.ctp:82 Template/Pilots/view.ctp:81
+#: Template/Users/view.ctp:114
+msgid "Flight Code"
+msgstr "ハンガーコード"
+
+#: Template/Aircrafts/view.ctp:83 Template/FlightSchedules/view.ctp:33
+msgid "Aircraft"
+msgstr "航空機"
+
+#: Template/Aircrafts/view.ctp:84 Template/Users/view.ctp:116
+msgid "Pilot Id"
+msgstr "パイロット"
+
+#: Template/Aircrafts/view.ctp:85 Template/FlightSchedules/view.ctp:57
+#: Template/Pilots/view.ctp:84 Template/Users/view.ctp:117
+msgid "Event Type"
+msgstr "イベントタイプ"
+
+#: Template/Airlines/add.ctp:20
+msgid "#1 : Add the airline informations"
+msgstr "航空会社の追加"
+
+#: Template/Airlines/add.ctp:29 Template/Airlines/edit.ctp:37
+msgid "Next"
+msgstr "次へ"
+
+#: Template/Airlines/edit.ctp:28
+msgid "#1 : Edit the airline informations"
+msgstr "航空会社の編集"
+
+#: Template/Airlines/index.ctp:16 Template/Airlines/view.ctp:19
+msgid "New Airline"
+msgstr "新しい航空会社"
+
+#: Template/Airlines/index.ctp:27
+msgid "Airlines"
+msgstr "航空"
+
+#: Template/Airlines/view.ctp:16
+msgid "Edit Airline"
+msgstr "航空会社の編集"
+
+#: Template/Airlines/view.ctp:17
+msgid "Delete Airline"
+msgstr "航空会社の削除"
+
+#: Template/Airlines/view.ctp:46 Template/Users/view.ctp:89
+msgid "Airline Name"
+msgstr "航空会社名"
+
+#: Template/Airlines/view.ctp:50 Template/Users/view.ctp:90
+msgid "Country"
+msgstr "国"
+
+#: Template/Airlines/view.ctp:66
+msgid "Logo"
+msgstr "ロゴ"
+
+#: Template/Airlines/view.ctp:78
+msgid "No logo"
+msgstr "ロゴなし"
+
+#: Template/Airlines/view.ctp:85 Template/Hangars/view.ctp:66
+#: Template/Users/view.ctp:58
+msgid "Related Aircrafts"
+msgstr "関連機材"
+
+#: Template/Airlines/view.ctp:91 Template/Users/view.ctp:64
+msgid "Hangar Id"
+msgstr "ハンガーID"
+
+#: Template/App/about.ctp:17
+msgid "Airport manager"
+msgstr "空港マネージャー"
+
+#: Template/App/about.ctp:20
+msgid "Version 1.0<br />"
+msgstr "バージョン1.0 <br />"
+
+#: Template/App/about.ctp:23
+msgid "By Nicolas Meunier"
+msgstr "Nicolas Meunier によって"
+
+#: Template/App/about.ctp:26
+msgid "For \"420-5b7 MO Applications internet\""
+msgstr "ために \"420-5b7 MO Applications internet\""
+
+#: Template/App/about.ctp:29
+msgid "Fall 2018, Coll&egrave;ge Montmorency"
+msgstr "秋 2018, Coll&egrave;ge Montmorency"
+
+#: Template/App/about.ctp:32
+msgid "Some examples : "
+msgstr "いくつかの例 : "
+
+#: Template/App/about.ctp:35
+msgid "A visitor can only see the elements and their details"
+msgstr "ビジターは要素とその詳細しか見ることができません"
+
+#: Template/App/about.ctp:37
+msgid "There is no option to add nor edit anything (except adding an account)."
+msgstr ""
+"アカウントの追加を除いて、何も追加または編集するオプションはありません。"
+
+#: Template/App/about.ctp:38
+msgid ""
+"You can connect to an account with the Login button in the top right corner."
+msgstr "右上にある[ログイン]ボタンを使用してアカウントに接続できます。"
+
+#: Template/App/about.ctp:39
+msgid ""
+"You can create an new account with the Register button in the top right "
+"corner."
+msgstr "右上隅にある登録ボタンで新しいアカウントを作成することができます。"
+
+#: Template/App/about.ctp:40
+msgid ""
+"You can't see the user list (The option is there, but it lead to the login "
+"section)."
+msgstr ""
+"ユーザーリストは表示されません（オプションはありますが、ログインセクションが"
+"表示されます）。"
+
+#: Template/App/about.ctp:44
+msgid ""
+"An air traffic controller can add elements (aircraft, airline, etc.) and "
+"modify or delete the elements he has created."
+msgstr ""
+"航空管制官は、要素（航空機、航空会社など）を追加し、彼が作成した要素を変更ま"
+"たは削除することができます。"
+
+#: Template/App/about.ctp:46
+msgid ""
+"Depending of the page you are on, there is an option in the left menu and in "
+"the index page to add an element or edit/delete any elements he has created."
+msgstr ""
+"現在のページに応じて、左メニューとインデックスページに要素を追加するオプショ"
+"ンがあります\n"
+"作成した要素を編集/削除することができます。"
+
+#: Template/App/about.ctp:47;58
+msgid "You can Logout with the Logout button in the top right corner."
+msgstr "右上にある[ログアウト]ボタンを使用してログアウトすることができます。"
+
+#: Template/App/about.ctp:48;59
+msgid "There is a button call My Profile that lead you to your profil."
+msgstr "あなたのプロフィールにつながるボタン私のプロフィールがあります。"
+
+#: Template/App/about.ctp:49
+msgid "The Register button has disappeared."
+msgstr "登録ボタンが消えました。"
+
+#: Template/App/about.ctp:50
+msgid "You can't see the user list or a user informations other than you."
+msgstr "ユーザーリストまたはあなた以外のユーザー情報は表示されません。"
+
+#: Template/App/about.ctp:51
+msgid "You can only view, modify or delete your profile."
+msgstr "プロファイルの表示、変更、削除のみが可能です。"
+
+#: Template/App/about.ctp:55
+msgid "An admin can do anything"
+msgstr "管理者は何でもできる"
+
+#: Template/App/about.ctp:57
+msgid "All the Add, Edit, and Delete buttons are visibles and functionals."
+msgstr "追加、編集、削除ボタンはすべて表示され、機能します。"
+
+#: Template/App/about.ctp:60
+msgid "There is a button call All the Users that lead you to the user list."
+msgstr "すべてのユーザーがユーザーリストに移動するボタンを呼び出します。"
+
+#: Template/App/about.ctp:61
+msgid ""
+"The Register button has disappeared, but you can still add a user with the "
+"option in the left menu in the user list."
+msgstr ""
+"[登録]ボタンは消えましたが、ユーザリストの左メニューにオプションを追加して"
+"ユーザーを追加することはできます。"
+
+#: Template/App/about.ctp:62
+msgid ""
+"You can see the user list and informations, and modify or delete every "
+"profiles."
+msgstr ""
+"ユーザーのリストと情報を表示し、すべてのプロファイルを変更または削除すること"
+"ができます。"
+
+#: Template/App/about.ctp:68
+msgid "For the original database, click here"
+msgstr "元のデータベースについては、ここをクリックしてください"
+
+#: Template/App/about.ctp:69
+msgid "My database : "
+msgstr "私のデータベース : "
+
+#: Template/Files/add.ctp:22
+msgid "#2 Add a logo (Not obligatory)"
+msgstr "＃2ロゴを追加する（必須ではありません）"
+
+#: Template/Files/add.ctp:24 Template/Files/edit.ctp:24
+msgid "Done"
+msgstr "完了"
+
+#: Template/Files/edit.ctp:22
+msgid "#2 Edit the logo (Not obligatory)"
+msgstr "＃2ロゴを編集する（必須ではありません）"
+
+#: Template/FlightSchedules/add.ctp:20
+msgid "Add Flight Schedule"
+msgstr "フライトスケジュールの追加"
+
+#: Template/FlightSchedules/edit.ctp:27 Template/FlightSchedules/view.ctp:15
+msgid "Edit Flight Schedule"
+msgstr "フライトスケジュールの編集"
+
+#: Template/FlightSchedules/index.ctp:15 Template/FlightSchedules/view.ctp:18
+msgid "New Flight Schedule"
+msgstr "新しいフライトスケジュール"
+
+#: Template/FlightSchedules/index.ctp:26
+msgid "Flight Schedules"
+msgstr "フライトスケジュール"
+
+#: Template/FlightSchedules/view.ctp:16
+msgid "Delete Flight Schedule"
+msgstr "フライトスケジュールの削除"
+
+#: Template/FlightSchedules/view.ctp:37 Template/Pilots/view.ctp:82
+msgid "Pilot"
+msgstr "パイロット"
+
+#: Template/FlightSchedules/view.ctp:53
+msgid "Flight Name"
+msgstr "フライト名"
+
+#: Template/FlightSchedules/view.ctp:65
+msgid "Departure Time"
+msgstr "出発時刻"
+
+#: Template/FlightSchedules/view.ctp:69
+msgid "Arrival Time"
+msgstr "到着時刻"
+
+#: Template/Hangars/add.ctp:20
+msgid "Add Hangar"
+msgstr "格納庫を追加"
+
+#: Template/Hangars/edit.ctp:28 Template/Hangars/view.ctp:15
+msgid "Edit Hangar"
+msgstr "格納庫の編集"
+
+#: Template/Hangars/index.ctp:15 Template/Hangars/view.ctp:18
+msgid "New Hangar"
+msgstr "新しい格納庫"
+
+#: Template/Hangars/index.ctp:26
+msgid "Hangars"
+msgstr "格納庫"
+
+#: Template/Hangars/view.ctp:16
+msgid "Delete Hangar"
+msgstr "格納庫の削除"
+
+#: Template/Hangars/view.ctp:45
+msgid "Code"
+msgstr "コード"
+
+#: Template/Hangars/view.ctp:49 Template/Users/view.ctp:144
+msgid "Hangar Size"
+msgstr "格納庫サイズ"
+
+#: Template/Hangars/view.ctp:72 Template/Users/view.ctp:63
+msgid "Airline Id"
+msgstr "ハンガーID"
+
+#: Template/Layout/default.ctp:61
+msgid "Administrator - "
+msgstr "管理 - "
+
+#: Template/Layout/default.ctp:63
+msgid "Air traffic controller - "
+msgstr "航空管制官 - "
+
+#: Template/Layout/default.ctp:67
+msgid "My Profile"
+msgstr "私のプロフィール"
+
+#: Template/Layout/default.ctp:70
+msgid "All the Users"
+msgstr "すべてのユーザーがユーザーリストに移動するボタンを呼び出します"
+
+#: Template/Layout/default.ctp:73 Template/Users/login.ctp:18;23
+msgid "Login"
+msgstr "ログイン"
+
+#: Template/Layout/default.ctp:75
+msgid "Register"
+msgstr "登録"
+
+#: Template/Layout/default.ctp:78
+msgid "About this app"
+msgstr "このアプリについて"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "エラー"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "戻る"
+
+#: Template/Pilots/add.ctp:20
+msgid "Add Pilot"
+msgstr "パイロットの追加"
+
+#: Template/Pilots/edit.ctp:14 Template/Pilots/index.ctp:48
+#: Template/Pilots/view.ctp:16 Template/Users/view.ctp:184
+msgid "Are you sure you want to delete {0} {1}?"
+msgstr "{0} {1} を削除してもよろしいですか?"
+
+#: Template/Pilots/edit.ctp:28 Template/Pilots/view.ctp:15
+msgid "Edit Pilot"
+msgstr "パイロットの編集"
+
+#: Template/Pilots/index.ctp:15 Template/Pilots/view.ctp:18
+msgid "New Pilot"
+msgstr "新しいパイロット"
+
+#: Template/Pilots/index.ctp:26
+msgid "Pilots"
+msgstr "パイロット"
+
+#: Template/Pilots/view.ctp:16
+msgid "Delete Pilot"
+msgstr "パイロットの削除"
+
+#: Template/Pilots/view.ctp:48 Template/Users/view.ctp:168
+msgid "Licence Number"
+msgstr "ライセンス番号"
+
+#: Template/Pilots/view.ctp:52 Template/Users/view.ctp:169
+msgid "First Name"
+msgstr "名"
+
+#: Template/Pilots/view.ctp:56 Template/Users/view.ctp:170
+msgid "Last Name"
+msgstr "姓"
+
+#: Template/Pilots/view.ctp:60 Template/Users/view.ctp:171
+msgid "Gender"
+msgstr "性別"
+
+#: Template/Pilots/view.ctp:83
+msgid "Aircraft Id"
+msgstr "ハンガーID"
+
+#: Template/Users/add.ctp:21
+msgid "Add User"
+msgstr "ユーザーを追加"
+
+#: Template/Users/edit.ctp:28 Template/Users/view.ctp:16
+msgid "Edit User"
+msgstr "ユーザーの編集"
+
+#: Template/Users/error_confirm.ctp:21
+msgid "You need to confirm your email to access all the functionalities"
+msgstr "すべての機能にアクセスするにはメールを確認する必要があります"
+
+#: Template/Users/error_confirm.ctp:22
+msgid "You can't :"
+msgstr "あなたはできません :"
+
+#: Template/Users/error_confirm.ctp:24
+msgid "Add a new element (Aircraft, airline, etc.)"
+msgstr "新しい要素を追加する（航空機、航空会社など）"
+
+#: Template/Users/error_confirm.ctp:25
+msgid "Edit your account"
+msgstr "編集"
+
+#: Template/Users/error_confirm.ctp:29
+msgid "Send back the confirmation email"
+msgstr "確認メールが送信されました"
+
+#: Template/Users/error_confirm.ctp:31
+msgid "Continue anyway"
+msgstr "とにかく続けます"
+
+#: Template/Users/index.ctp:15 Template/Users/view.ctp:20
+msgid "New User"
+msgstr "新しいユーザー"
+
+#: Template/Users/index.ctp:27
+msgid "Users"
+msgstr "ユーザー"
+
+#: Template/Users/index.ctp:33 Template/Users/view.ctp:45
+msgid "Rank"
+msgstr "ランク"
+
+#: Template/Users/index.ctp:54
+msgid "Delete the account"
+msgstr "アカウントを削除する"
+
+#: Template/Users/index.ctp:54
+msgid "Are you sure you want to delete the account, {0}?"
+msgstr "{0} {1} を削除してもよろしいですか?"
+
+#: Template/Users/view.ctp:17
+msgid "Delete User"
+msgstr "ユーザーの削除"
+
+#: Template/Users/view.ctp:21
+msgid "List Users"
+msgstr "ユーザー一覧"
+
+#: Template/Users/view.ctp:37
+msgid "Username"
+msgstr "ユーザー名"
+
+#: Template/Users/view.ctp:41
+msgid "Email"
+msgstr "メールアドレス"
+
+#: Template/Users/view.ctp:46
+msgid "Administrator"
+msgstr "管理者"
+
+#: Template/Users/view.ctp:46
+msgid "Air traffic controller"
+msgstr "航空管制官"
+
+#: Template/Users/view.ctp:85
+msgid "Related Airlines"
+msgstr "関連航空会社"
+
+#: Template/Users/view.ctp:115
+msgid "Aircraft id"
+msgstr "ハンガーID"
+
+#: Template/Users/view.ctp:139
+msgid "Related Hangars"
+msgstr "関連格納庫"
+
+#: Template/Users/view.ctp:143
+msgid "Hangar Code"
+msgstr "ハンガーコード"
+
+#: Template/Users/view.ctp:164
+msgid "Related Pilots"
+msgstr "関連パイロット"
+
+#~ msgid "The requested address {0} was not found on this server."
+#~ msgstr "要求されたアドレス{0}はこのサーバーで見つかりませんでした。"
+
+#~ msgid "An Internal Error Has Occurred"
+#~ msgstr "内部エラーが発生しました"
+
+#~ msgid "You are not authorized to access that location."
+#~ msgstr "あなたはその場所にアクセスする権限がありません。"
+
+#~ msgid "Missing CSRF token cookie"
+#~ msgstr "CSRF トークンクッキーが見つかりません"
+
+#~ msgid "CSRF token mismatch."
+#~ msgstr "CSRF トークンの不一致。"
+
+#~ msgid "Not Found"
+#~ msgstr "要求されたアドレス{0}はこのサーバーで見つかりませんでした。"
+
+#~ msgid "An Internal Error Has Occurred."
+#~ msgstr "内部エラーが発生しました"
+
+#~ msgid "The requested file was not found"
+#~ msgstr "要求されたアドレス{0}はこのサーバーで見つかりませんでした。"
+
+#~ msgid "{0} from now"
+#~ msgstr "あなたはログアウトしました。"
+
+#~ msgid "{0} ago"
+#~ msgstr "{0} 前"
+
+#~ msgid "{0} after"
+#~ msgstr "{0}後"
+
+#~ msgid "{0} before"
+#~ msgstr "{0}以前"
+
+#~ msgid "just now"
+#~ msgstr "あなたはログアウトしました"
+
+#~ msgid "about a second ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about a minute ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about an hour ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about a day ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about a week ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about a month ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "about a year ago"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a second"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a minute"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about an hour"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a day"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a week"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a month"
+#~ msgstr "このアプリについて"
+
+#~ msgid "in about a year"
+#~ msgstr "このアプリについて"
+
+#~ msgid "today"
+#~ msgstr "今日"
+
+#~ msgid "%s ago"
+#~ msgstr "%s前"
+
+#~ msgid "on %s"
+#~ msgstr "on %s"
+
+#~ msgid "{0} year"
+#~ msgid_plural "{0} years"
+#~ msgstr[0] "{0}年"
+
+#~ msgid "{0} month"
+#~ msgid_plural "{0} months"
+#~ msgstr[0] "このアプリについて"
+
+#~ msgid "{0} week"
+#~ msgid_plural "{0} weeks"
+#~ msgstr[0] "{0}週"
+
+#~ msgid "{0} day"
+#~ msgid_plural "{0} days"
+#~ msgstr[0] "{0}日"
+
+#~ msgid "This value is already in use"
+#~ msgstr "このメールは既に確認済みです"
+
+#~ msgid "Edit {0}"
+#~ msgstr "編集"
+
+#~ msgid "New {0}"
+#~ msgstr "新しいユーザー"
+
+#~ msgid "Home"
+#~ msgstr "ホーム"
+
+#~ msgid "January"
+#~ msgstr "一月"
+
+#~ msgid "February"
+#~ msgstr "二月"
+
+#~ msgid "March"
+#~ msgstr "三月"
+
+#~ msgid "April"
+#~ msgstr "四月"
+
+#~ msgid "May"
+#~ msgstr "五月"
+
+#~ msgid "June"
+#~ msgstr "六月"
+
+#~ msgid "July"
+#~ msgstr "七月"
+
+#~ msgid "August"
+#~ msgstr "八月"
+
+#~ msgid "September"
+#~ msgstr "\t九月"
+
+#~ msgid "October"
+#~ msgstr "十月"
+
+#~ msgid "November"
+#~ msgstr "十一月"
+
+#~ msgid "December"
+#~ msgstr "十二月"

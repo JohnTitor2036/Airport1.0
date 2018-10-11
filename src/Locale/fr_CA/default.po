@@ -1,0 +1,1100 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2018-10-11 18:25+0000\n"
+"PO-Revision-Date: 2018-10-11 14:26-0400\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"Language: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.1.1\n"
+
+#: Controller/AircraftsController.php:46
+msgid "Your aircraft has been saved."
+msgstr "Votre avion a été sauvegardé."
+
+#: Controller/AircraftsController.php:50
+msgid "Unable to add your aircraft."
+msgstr "Impossible d'ajouter votre avion."
+
+#: Controller/AircraftsController.php:77
+msgid "Your aircraft has been updated."
+msgstr "Votre avion a été mis à jour."
+
+#: Controller/AircraftsController.php:80
+msgid "Unable to update your aircraft."
+msgstr "Impossible de mettre à jour votre avion."
+
+#: Controller/AircraftsController.php:104
+msgid "The aircraft has been deleted."
+msgstr "L'avion a été supprimé."
+
+#: Controller/AircraftsController.php:106;109
+msgid "The aircraft could not be deleted. Please, try again."
+msgstr "L'avion n'a pas pu être supprimé. S'll vous plaît, essayez encore."
+
+#: Controller/AirlinesController.php:61;93
+msgid "The airline has been saved."
+msgstr "La compagnie a été sauvegardé."
+
+#: Controller/AirlinesController.php:66;97
+msgid "The airline could not be saved. Please, try again."
+msgstr ""
+"La compagnie aérienne n'a pas pu être sauvée. S'll vous plaît, essayez "
+"encore."
+
+#: Controller/AirlinesController.php:129
+msgid "The airline has been deleted."
+msgstr "La compagnie aérienne a été supprimée."
+
+#: Controller/AirlinesController.php:132;141
+msgid "The airline could not be deleted. Please, try again."
+msgstr ""
+"La compagnie aérienne n'a pas pu être supprimée. S'll vous plaît, essayez "
+"encore."
+
+#: Controller/FilesController.php:36
+msgid "You don't have the right to do that"
+msgstr "Vous n'avez pas le droit de le faire"
+
+#: Controller/FilesController.php:83;144
+msgid "Logo has been uploaded and inserted successfully."
+msgstr "Logo a été téléchargé et inséré avec succès."
+
+#: Controller/FilesController.php:86;89;147;150
+msgid "Unable to upload logo, please try again."
+msgstr "Impossible de télécharger le logo, S'il vous plaît essayer à nouveau."
+
+#: Controller/FilesController.php:92
+msgid "The airline don't have a logo"
+msgstr "La compagnie aérienne n'a pas de logo"
+
+#: Controller/FilesController.php:154
+msgid "No logo have been upload"
+msgstr "Aucun logo n'a été téléchargé"
+
+#: Controller/FilesController.php:200
+msgid "The logo has been deleted."
+msgstr "Le logo a été supprimé."
+
+#: Controller/FilesController.php:202;205
+msgid "The logo could not be deleted. Please, try again."
+msgstr "Le logo n'a pas pu être supprimé. S'Ll vous plaît, essayez encore."
+
+#: Controller/FlightSchedulesController.php:60;93
+msgid "The flight schedule has been saved."
+msgstr "L'horaire de vol a été sauvegardé."
+
+#: Controller/FlightSchedulesController.php:64;96
+msgid "The flight schedule could not be saved. Please, try again."
+msgstr ""
+"L'horaire de vol n'a pas pu être sauvegardé. S'll vous plaît, essayez encore."
+
+#: Controller/FlightSchedulesController.php:119
+msgid "The flight schedule has been deleted."
+msgstr "L'horaire de vol a été supprimé."
+
+#: Controller/FlightSchedulesController.php:121;124
+msgid "The flight schedule could not be deleted. Please, try again."
+msgstr ""
+"L'horaire de vol n'a pas pu être supprimé. S'll vous plaît, essayez encore."
+
+#: Controller/HangarsController.php:60;90
+msgid "The hangar has been saved."
+msgstr "Le hangar a été sauvegardé."
+
+#: Controller/HangarsController.php:64;94
+msgid "The hangar could not be saved. Please, try again."
+msgstr "Le hangar n'a pas pu être sauvegardé. S'll vous plaît, essayez encore."
+
+#: Controller/HangarsController.php:115
+msgid "The hangar has been deleted."
+msgstr "Le hangar a été supprimé."
+
+#: Controller/HangarsController.php:117;120
+msgid "The hangar could not be deleted. Please, try again."
+msgstr "Le hangar n'a pas pu être supprimé. S'll vous plaît, essayez encore."
+
+#: Controller/PilotsController.php:60;90
+msgid "The pilot has been saved."
+msgstr "Le pilote a été sauvegardé."
+
+#: Controller/PilotsController.php:64;94
+msgid "The pilot could not be saved. Please, try again."
+msgstr "Le pilote n'a pas pu être sauvegardé. S'll vous plaît, essayez encore."
+
+#: Controller/PilotsController.php:115
+msgid "The pilot has been deleted."
+msgstr "Le pilote a été supprimé."
+
+#: Controller/PilotsController.php:117;120
+msgid "The pilot could not be deleted. Please, try again."
+msgstr "Le pilote n'a pas pu être supprimé. S'll vous plaît, essayez encore."
+
+#: Controller/UsersController.php:75;106
+msgid "The user could not be saved. Please, try again."
+msgstr "L'utilisateur n'a pas pu être sauvegardé. Veuillez réessayer."
+
+#: Controller/UsersController.php:99
+msgid "The user has been saved."
+msgstr "L'utilisateur a été enregistré."
+
+#: Controller/UsersController.php:132
+msgid "The user has been deleted."
+msgstr "L'utilisateur a été supprimé."
+
+#: Controller/UsersController.php:134;137
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+"L'utilisateur n'a pas pu être supprimé. S'll vous plaît, essayez encore."
+
+#: Controller/UsersController.php:151
+msgid "You need to confirm you email"
+msgstr "Vous devez confirmer votre email"
+
+#: Controller/UsersController.php:156
+msgid "Your username or password is incorrect."
+msgstr "Votre nom d'utilisateur ou votre mot de passe est incorrect."
+
+#: Controller/UsersController.php:162
+msgid "You are now logged out."
+msgstr "Vous êtes maintenant déconnecté."
+
+#: Controller/UsersController.php:172
+msgid "Please confirm your email"
+msgstr "Veuillez confirmer votre email"
+
+#: Controller/UsersController.php:174
+msgid "A confirmation email has been sent to "
+msgstr "Un courriel de confirmation a été envoyé à "
+
+#: Controller/UsersController.php:176
+msgid "Error, the confirmation email can't be sent to "
+msgstr "Erreur, l'email de confirmation ne peut pas être envoyé à "
+
+#: Controller/UsersController.php:187
+msgid "Thanks "
+msgstr "Merci "
+
+#: Controller/UsersController.php:189
+msgid "This email is already confirmed"
+msgstr "Ce courriel est déjà confirmé"
+
+#: Template/Aircrafts/add.ctp:9 Template/Aircrafts/edit.ctp:10
+#: Template/Aircrafts/index.ctp:11;33 Template/Aircrafts/view.ctp:10;86
+#: Template/Airlines/add.ctp:9 Template/Airlines/edit.ctp:10
+#: Template/Airlines/index.ctp:12;34 Template/Airlines/view.ctp:11;92
+#: Template/App/about.ctp:8 Template/Files/add.ctp:9 Template/Files/edit.ctp:9
+#: Template/FlightSchedules/add.ctp:9 Template/FlightSchedules/edit.ctp:10
+#: Template/FlightSchedules/index.ctp:11;34
+#: Template/FlightSchedules/view.ctp:10 Template/Hangars/add.ctp:9
+#: Template/Hangars/edit.ctp:10 Template/Hangars/index.ctp:11;32
+#: Template/Hangars/view.ctp:10;73 Template/Pilots/add.ctp:9
+#: Template/Pilots/edit.ctp:10 Template/Pilots/index.ctp:11;34
+#: Template/Pilots/view.ctp:10;85 Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:10 Template/Users/error_confirm.ctp:12
+#: Template/Users/index.ctp:11;34 Template/Users/login.ctp:8
+#: Template/Users/view.ctp:11;65;91;118;145;172
+msgid "Actions"
+msgstr "Actions"
+
+#: Template/Aircrafts/add.ctp:10 Template/Aircrafts/edit.ctp:18
+#: Template/Aircrafts/view.ctp:22 Template/Airlines/add.ctp:11
+#: Template/Airlines/edit.ctp:19 Template/Airlines/index.ctp:20
+#: Template/Airlines/view.ctp:24 Template/App/about.ctp:9
+#: Template/Files/add.ctp:11 Template/Files/edit.ctp:11
+#: Template/FlightSchedules/add.ctp:11 Template/FlightSchedules/edit.ctp:19
+#: Template/FlightSchedules/index.ctp:19 Template/FlightSchedules/view.ctp:23
+#: Template/Hangars/add.ctp:11 Template/Hangars/edit.ctp:19
+#: Template/Hangars/index.ctp:19 Template/Hangars/view.ctp:23
+#: Template/Pilots/add.ctp:11 Template/Pilots/edit.ctp:19
+#: Template/Pilots/index.ctp:19 Template/Pilots/view.ctp:23
+#: Template/Users/add.ctp:11 Template/Users/edit.ctp:18
+#: Template/Users/error_confirm.ctp:13 Template/Users/index.ctp:19
+#: Template/Users/login.ctp:9 Template/Users/view.ctp:26
+msgid "List Aircrafts"
+msgstr "Liste des avions"
+
+#: Template/Aircrafts/add.ctp:11 Template/Aircrafts/edit.ctp:19
+#: Template/Aircrafts/index.ctp:19 Template/Aircrafts/view.ctp:23
+#: Template/Airlines/add.ctp:10 Template/Airlines/edit.ctp:18
+#: Template/Airlines/view.ctp:23 Template/App/about.ctp:10
+#: Template/Files/add.ctp:10 Template/Files/edit.ctp:10
+#: Template/FlightSchedules/add.ctp:12 Template/FlightSchedules/edit.ctp:20
+#: Template/FlightSchedules/index.ctp:20 Template/FlightSchedules/view.ctp:24
+#: Template/Hangars/add.ctp:12 Template/Hangars/edit.ctp:20
+#: Template/Hangars/index.ctp:20 Template/Hangars/view.ctp:24
+#: Template/Pilots/add.ctp:12 Template/Pilots/edit.ctp:20
+#: Template/Pilots/index.ctp:20 Template/Pilots/view.ctp:24
+#: Template/Users/add.ctp:12 Template/Users/edit.ctp:19
+#: Template/Users/error_confirm.ctp:14 Template/Users/index.ctp:20
+#: Template/Users/login.ctp:10 Template/Users/view.ctp:27
+msgid "List Airlines"
+msgstr "Liste des compagnies aériennes"
+
+#: Template/Aircrafts/add.ctp:12 Template/Aircrafts/edit.ctp:20
+#: Template/Aircrafts/index.ctp:20 Template/Aircrafts/view.ctp:24
+#: Template/Airlines/add.ctp:12 Template/Airlines/edit.ctp:20
+#: Template/Airlines/index.ctp:21 Template/Airlines/view.ctp:25
+#: Template/App/about.ctp:11 Template/Files/add.ctp:12
+#: Template/Files/edit.ctp:12 Template/FlightSchedules/add.ctp:13
+#: Template/FlightSchedules/edit.ctp:21 Template/FlightSchedules/index.ctp:21
+#: Template/FlightSchedules/view.ctp:25 Template/Hangars/add.ctp:10
+#: Template/Hangars/edit.ctp:18 Template/Hangars/view.ctp:22
+#: Template/Pilots/add.ctp:13 Template/Pilots/edit.ctp:21
+#: Template/Pilots/index.ctp:21 Template/Pilots/view.ctp:25
+#: Template/Users/add.ctp:13 Template/Users/edit.ctp:20
+#: Template/Users/error_confirm.ctp:15 Template/Users/index.ctp:21
+#: Template/Users/login.ctp:11 Template/Users/view.ctp:28
+msgid "List Hangars"
+msgstr "Liste des hangars"
+
+#: Template/Aircrafts/add.ctp:13 Template/Aircrafts/edit.ctp:21
+#: Template/Aircrafts/index.ctp:21 Template/Aircrafts/view.ctp:25
+#: Template/Airlines/add.ctp:13 Template/Airlines/edit.ctp:21
+#: Template/Airlines/index.ctp:22 Template/Airlines/view.ctp:26
+#: Template/App/about.ctp:12 Template/Files/add.ctp:13
+#: Template/Files/edit.ctp:13 Template/FlightSchedules/add.ctp:10
+#: Template/FlightSchedules/edit.ctp:18 Template/FlightSchedules/view.ctp:22
+#: Template/Hangars/add.ctp:13 Template/Hangars/edit.ctp:21
+#: Template/Hangars/index.ctp:21 Template/Hangars/view.ctp:25
+#: Template/Pilots/add.ctp:14 Template/Pilots/edit.ctp:22
+#: Template/Pilots/index.ctp:22 Template/Pilots/view.ctp:26
+#: Template/Users/add.ctp:14 Template/Users/edit.ctp:21
+#: Template/Users/error_confirm.ctp:16 Template/Users/index.ctp:22
+#: Template/Users/login.ctp:12 Template/Users/view.ctp:29
+msgid "List Flight Schedules"
+msgstr "Liste des horaires de vol"
+
+#: Template/Aircrafts/add.ctp:14 Template/Aircrafts/edit.ctp:22
+#: Template/Aircrafts/index.ctp:22 Template/Aircrafts/view.ctp:26
+#: Template/Airlines/add.ctp:14 Template/Airlines/edit.ctp:22
+#: Template/Airlines/index.ctp:23 Template/Airlines/view.ctp:27
+#: Template/App/about.ctp:13 Template/Files/add.ctp:14
+#: Template/Files/edit.ctp:14 Template/FlightSchedules/add.ctp:14
+#: Template/FlightSchedules/edit.ctp:22 Template/FlightSchedules/index.ctp:22
+#: Template/FlightSchedules/view.ctp:26 Template/Hangars/add.ctp:14
+#: Template/Hangars/edit.ctp:22 Template/Hangars/index.ctp:22
+#: Template/Hangars/view.ctp:26 Template/Pilots/add.ctp:10
+#: Template/Pilots/edit.ctp:18 Template/Pilots/view.ctp:22
+#: Template/Users/add.ctp:15 Template/Users/edit.ctp:22
+#: Template/Users/error_confirm.ctp:17 Template/Users/index.ctp:23
+#: Template/Users/login.ctp:13 Template/Users/view.ctp:30
+msgid "List Pilots"
+msgstr "Liste des pilotes"
+
+#: Template/Aircrafts/add.ctp:20
+msgid "Add Aircraft"
+msgstr "Ajouter un avion"
+
+#: Template/Aircrafts/add.ctp:32 Template/Aircrafts/edit.ctp:40
+#: Template/FlightSchedules/add.ctp:33 Template/FlightSchedules/edit.ctp:40
+#: Template/Hangars/add.ctp:29 Template/Hangars/edit.ctp:37
+#: Template/Pilots/add.ctp:31 Template/Pilots/edit.ctp:39
+#: Template/Users/add.ctp:31 Template/Users/edit.ctp:38
+msgid "Submit"
+msgstr "Soumettre"
+
+#: Template/Aircrafts/edit.ctp:14 Template/Aircrafts/index.ctp:46
+#: Template/Aircrafts/view.ctp:98 Template/Airlines/edit.ctp:14
+#: Template/Airlines/index.ctp:61 Template/Airlines/view.ctp:103
+#: Template/FlightSchedules/edit.ctp:14 Template/FlightSchedules/index.ctp:51
+#: Template/Hangars/edit.ctp:14 Template/Hangars/index.ctp:44
+#: Template/Hangars/view.ctp:84 Template/Pilots/edit.ctp:14
+#: Template/Pilots/index.ctp:48 Template/Pilots/view.ctp:97
+#: Template/Users/edit.ctp:14 Template/Users/view.ctp:76;101;130;155;184
+msgid "Delete"
+msgstr "Supprimer"
+
+#: Template/Aircrafts/edit.ctp:14 Template/Aircrafts/index.ctp:46
+#: Template/Aircrafts/view.ctp:16;98 Template/Airlines/edit.ctp:14
+#: Template/Airlines/index.ctp:61 Template/Airlines/view.ctp:17;103
+#: Template/FlightSchedules/edit.ctp:14 Template/FlightSchedules/index.ctp:51
+#: Template/FlightSchedules/view.ctp:16 Template/Hangars/edit.ctp:14
+#: Template/Hangars/index.ctp:44 Template/Hangars/view.ctp:16;84
+#: Template/Pilots/view.ctp:97 Template/Users/edit.ctp:14
+#: Template/Users/view.ctp:17;76;101;130;155
+msgid "Are you sure you want to delete {0}?"
+msgstr "Êtes-vous sûr de vouloir supprimer {0}?"
+
+#: Template/Aircrafts/edit.ctp:28 Template/Aircrafts/view.ctp:15
+msgid "Edit Aircraft"
+msgstr "Modifier l'avion"
+
+#: Template/Aircrafts/index.ctp:15 Template/Aircrafts/view.ctp:18
+msgid "New Aircraft"
+msgstr "Ajouter un avion"
+
+#: Template/Aircrafts/index.ctp:26
+msgid "Aircrafts"
+msgstr "Avions"
+
+#: Template/Aircrafts/index.ctp:43 Template/Aircrafts/view.ctp:95
+#: Template/Airlines/index.ctp:58 Template/Airlines/view.ctp:100
+#: Template/FlightSchedules/index.ctp:48 Template/Hangars/index.ctp:41
+#: Template/Hangars/view.ctp:81 Template/Pilots/index.ctp:45
+#: Template/Pilots/view.ctp:94 Template/Users/index.ctp:52
+#: Template/Users/view.ctp:73;98;127;152;181
+#: View/Helper/PaginatorHelper.php:1212
+msgid "View"
+msgstr "Voir"
+
+#: Template/Aircrafts/index.ctp:45 Template/Aircrafts/view.ctp:97
+#: Template/Airlines/index.ctp:60 Template/Airlines/view.ctp:102
+#: Template/FlightSchedules/index.ctp:50 Template/Hangars/index.ctp:43
+#: Template/Hangars/view.ctp:83 Template/Pilots/index.ctp:47
+#: Template/Pilots/view.ctp:96 Template/Users/index.ctp:53
+#: Template/Users/view.ctp:75;100;129;154;183
+msgid "Edit"
+msgstr "Modifier"
+
+#: Template/Aircrafts/index.ctp:55 Template/Airlines/index.ctp:70
+#: Template/FlightSchedules/index.ctp:60 Template/Hangars/index.ctp:53
+#: Template/Pilots/index.ctp:57 Template/Users/index.ctp:63
+msgid "first"
+msgstr "premier"
+
+#: Template/Aircrafts/index.ctp:56 Template/Airlines/index.ctp:71
+#: Template/FlightSchedules/index.ctp:61 Template/Hangars/index.ctp:54
+#: Template/Pilots/index.ctp:58 Template/Users/index.ctp:64
+msgid "previous"
+msgstr "précédent"
+
+#: Template/Aircrafts/index.ctp:58 Template/Airlines/index.ctp:73
+#: Template/FlightSchedules/index.ctp:63 Template/Hangars/index.ctp:56
+#: Template/Pilots/index.ctp:60 Template/Users/index.ctp:66
+msgid "next"
+msgstr "suivant"
+
+#: Template/Aircrafts/index.ctp:59 Template/Airlines/index.ctp:74
+#: Template/FlightSchedules/index.ctp:64 Template/Hangars/index.ctp:57
+#: Template/Pilots/index.ctp:61 Template/Users/index.ctp:67
+msgid "last"
+msgstr "dernier"
+
+#: Template/Aircrafts/index.ctp:61 Template/Airlines/index.ctp:76
+#: Template/FlightSchedules/index.ctp:66 Template/Hangars/index.ctp:59
+#: Template/Pilots/index.ctp:63 Template/Users/index.ctp:69
+msgid ""
+"Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} "
+"total"
+msgstr ""
+"Page {{page}} de {{pages}}, affichage de {{Current}} enregistrement (s) sur "
+"{{Count}} total"
+
+#: Template/Aircrafts/view.ctp:16
+msgid "Delete Aircraft"
+msgstr "Supprimer un avion"
+
+#: Template/Aircrafts/view.ctp:33 Template/Airlines/view.ctp:90
+msgid "Airline"
+msgstr "Compagnie aérienne"
+
+#: Template/Aircrafts/view.ctp:37 Template/Hangars/view.ctp:71
+msgid "Hangar"
+msgstr "Hangar"
+
+#: Template/Aircrafts/view.ctp:44 Template/Airlines/view.ctp:37
+#: Template/FlightSchedules/view.ctp:44 Template/Hangars/view.ctp:36
+#: Template/Pilots/view.ctp:39
+msgid "User"
+msgstr "Utilisateur"
+
+#: Template/Aircrafts/view.ctp:53 Template/Airlines/view.ctp:89
+#: Template/Hangars/view.ctp:70 Template/Users/view.ctp:62
+msgid "Model"
+msgstr "Modèle"
+
+#: Template/Aircrafts/view.ctp:57 Template/Airlines/view.ctp:54
+#: Template/FlightSchedules/view.ctp:61 Template/Hangars/view.ctp:53
+#: Template/Pilots/view.ctp:64
+msgid "Other Detail"
+msgstr "Autres détails"
+
+#: Template/Aircrafts/view.ctp:61
+msgid "Capacity"
+msgstr "Capacité"
+
+#: Template/Aircrafts/view.ctp:65
+msgid "Weight"
+msgstr "Poids"
+
+#: Template/Aircrafts/view.ctp:69 Template/Airlines/view.ctp:58
+#: Template/FlightSchedules/view.ctp:73 Template/Hangars/view.ctp:57
+#: Template/Pilots/view.ctp:68 Template/Users/view.ctp:49
+msgid "Created"
+msgstr "Créé"
+
+#: Template/Aircrafts/view.ctp:73 Template/Airlines/view.ctp:62
+#: Template/FlightSchedules/view.ctp:77 Template/Hangars/view.ctp:61
+#: Template/Pilots/view.ctp:72 Template/Users/view.ctp:53
+msgid "Modified"
+msgstr "Modifié"
+
+#: Template/Aircrafts/view.ctp:78 Template/Pilots/view.ctp:77
+#: Template/Users/view.ctp:110
+msgid "Related Flight Schedules"
+msgstr "Horaire de vol connexe"
+
+#: Template/Aircrafts/view.ctp:82 Template/Pilots/view.ctp:81
+#: Template/Users/view.ctp:114
+msgid "Flight Code"
+msgstr "Code du vol"
+
+#: Template/Aircrafts/view.ctp:83 Template/FlightSchedules/view.ctp:33
+msgid "Aircraft"
+msgstr "Avion"
+
+#: Template/Aircrafts/view.ctp:84 Template/Users/view.ctp:116
+msgid "Pilot Id"
+msgstr "Id Du Pilote"
+
+#: Template/Aircrafts/view.ctp:85 Template/FlightSchedules/view.ctp:57
+#: Template/Pilots/view.ctp:84 Template/Users/view.ctp:117
+msgid "Event Type"
+msgstr "Type d'événement"
+
+#: Template/Airlines/add.ctp:20
+msgid "#1 : Add the airline informations"
+msgstr "#1 : Ajouter une compagnie aérienne"
+
+#: Template/Airlines/add.ctp:29 Template/Airlines/edit.ctp:37
+msgid "Next"
+msgstr "Suivant"
+
+#: Template/Airlines/edit.ctp:28
+msgid "#1 : Edit the airline informations"
+msgstr "#1 : Modifier une compagnie aérienne"
+
+#: Template/Airlines/index.ctp:16 Template/Airlines/view.ctp:19
+msgid "New Airline"
+msgstr "Nouvelle compagnie aérienne"
+
+#: Template/Airlines/index.ctp:27
+msgid "Airlines"
+msgstr "Compagnies aériennes"
+
+#: Template/Airlines/view.ctp:16
+msgid "Edit Airline"
+msgstr "Modifier la compagnie aérienne"
+
+#: Template/Airlines/view.ctp:17
+msgid "Delete Airline"
+msgstr "Supprimer la compagnie aérienne"
+
+#: Template/Airlines/view.ctp:46 Template/Users/view.ctp:89
+msgid "Airline Name"
+msgstr "Nom de la compagnie aérienne"
+
+#: Template/Airlines/view.ctp:50 Template/Users/view.ctp:90
+msgid "Country"
+msgstr "Pays"
+
+#: Template/Airlines/view.ctp:66
+msgid "Logo"
+msgstr "Logo"
+
+#: Template/Airlines/view.ctp:78
+msgid "No logo"
+msgstr "Pas de Logo"
+
+#: Template/Airlines/view.ctp:85 Template/Hangars/view.ctp:66
+#: Template/Users/view.ctp:58
+msgid "Related Aircrafts"
+msgstr "Avions connexes"
+
+#: Template/Airlines/view.ctp:91 Template/Users/view.ctp:64
+msgid "Hangar Id"
+msgstr "Id Du Hangar"
+
+#: Template/App/about.ctp:17
+msgid "Airport manager"
+msgstr "Manageur d'aéroport"
+
+#: Template/App/about.ctp:20
+msgid "Version 1.0<br />"
+msgstr "Version 1.0<br />"
+
+#: Template/App/about.ctp:23
+msgid "By Nicolas Meunier"
+msgstr "Par Nicolas Meunier"
+
+#: Template/App/about.ctp:26
+msgid "For \"420-5b7 MO Applications internet\""
+msgstr "Pour \"420-5b7 MO Applications internet\"."
+
+#: Template/App/about.ctp:29
+msgid "Fall 2018, Coll&egrave;ge Montmorency"
+msgstr "Automne 2018, Coll&egrave;ge Montmorency"
+
+#: Template/App/about.ctp:32
+msgid "Some examples : "
+msgstr "Quelques exemples : "
+
+#: Template/App/about.ctp:35
+msgid "A visitor can only see the elements and their details"
+msgstr "Un visiteur ne peut voir que les éléments et leurs détails"
+
+#: Template/App/about.ctp:37
+msgid "There is no option to add nor edit anything (except adding an account)."
+msgstr ""
+"Il n'y a aucune option pour ajouter ou modifier quoi que ce soit (sauf "
+"ajouter un compte)."
+
+#: Template/App/about.ctp:38
+msgid ""
+"You can connect to an account with the Login button in the top right corner."
+msgstr ""
+"Vous pouvez vous connecter à un compte à l'aide du bouton Connexion  dans le "
+"coin supérieur droit."
+
+#: Template/App/about.ctp:39
+msgid ""
+"You can create an new account with the Register button in the top right "
+"corner."
+msgstr ""
+"Vous pouvez créer un nouveau compte en cliquant sur le bouton Créer un "
+"compte dans le coin supérieur droit."
+
+#: Template/App/about.ctp:40
+msgid ""
+"You can't see the user list (The option is there, but it lead to the login "
+"section)."
+msgstr "Vous ne pouvez pas voir la liste des utilisateurs."
+
+#: Template/App/about.ctp:44
+msgid ""
+"An air traffic controller can add elements (aircraft, airline, etc.) and "
+"modify or delete the elements he has created."
+msgstr ""
+"Un contrôleur aérien peut ajouter des éléments (avion, compagnie aérienne, "
+"etc.) et modifier ou supprimer les éléments qu'il a créés."
+
+#: Template/App/about.ctp:46
+msgid ""
+"Depending of the page you are on, there is an option in the left menu and in "
+"the index page to add an element or edit/delete any elements he has created."
+msgstr ""
+"Selon la page sur laquelle vous vous trouvez, il y a une option dans le menu "
+"de gauche et dans la page d'index pour ajouter un élément ou modifier/"
+"supprimer tout élément qu'il a créé."
+
+#: Template/App/about.ctp:47;58
+msgid "You can Logout with the Logout button in the top right corner."
+msgstr ""
+"Vous pouvez vous déconnecter en cliquant sur le bouton Déconnexion dans le "
+"coin supérieur droit."
+
+#: Template/App/about.ctp:48;59
+msgid "There is a button call My Profile that lead you to your profil."
+msgstr "Il y a un bouton \"Mon profil\" qui vous conduit à votre profil."
+
+#: Template/App/about.ctp:49
+msgid "The Register button has disappeared."
+msgstr "Le bouton Créer un compte  a disparu."
+
+#: Template/App/about.ctp:50
+msgid "You can't see the user list or a user informations other than you."
+msgstr ""
+"Vous ne pouvez pas voir la liste des utilisateurs ou les informations d'un "
+"utilisateur autre que vous."
+
+#: Template/App/about.ctp:51
+msgid "You can only view, modify or delete your profile."
+msgstr "Vous ne pouvez que consulter, modifier ou supprimer votre profil."
+
+#: Template/App/about.ctp:55
+msgid "An admin can do anything"
+msgstr "Un administrateur peut tout faire"
+
+#: Template/App/about.ctp:57
+msgid "All the Add, Edit, and Delete buttons are visibles and functionals."
+msgstr ""
+"Tous les boutons Ajouter, Modifier et Supprimer sont visibles et "
+"fonctionnels."
+
+#: Template/App/about.ctp:60
+msgid "There is a button call All the Users that lead you to the user list."
+msgstr ""
+"Il y a un bouton appeler Tous les Utilisateurs qui vous mènent à la liste "
+"des utilisateurs."
+
+#: Template/App/about.ctp:61
+msgid ""
+"The Register button has disappeared, but you can still add a user with the "
+"option in the left menu in the user list."
+msgstr ""
+"Le bouton Enregistrer a disparu, mais vous pouvez toujours ajouter un "
+"utilisateur avec l'option dans le menu de gauche de la liste des "
+"utilisateurs."
+
+#: Template/App/about.ctp:62
+msgid ""
+"You can see the user list and informations, and modify or delete every "
+"profiles."
+msgstr ""
+"Vous pouvez voir la liste des utilisateurs et les informations, et modifier "
+"ou supprimer tous les profils."
+
+#: Template/App/about.ctp:68
+msgid "For the original database, click here"
+msgstr "Pour la base de données originale, cliquez ici"
+
+#: Template/App/about.ctp:69
+msgid "My database : "
+msgstr "Ma base de données : "
+
+#: Template/Files/add.ctp:22
+msgid "#2 Add a logo (Not obligatory)"
+msgstr "#2 Ajouter un logo (Non obligatoire)"
+
+#: Template/Files/add.ctp:24 Template/Files/edit.ctp:24
+msgid "Done"
+msgstr "Terminé"
+
+#: Template/Files/edit.ctp:22
+msgid "#2 Edit the logo (Not obligatory)"
+msgstr "#2 Modifier le logo (Non obligatoire)"
+
+#: Template/FlightSchedules/add.ctp:20
+msgid "Add Flight Schedule"
+msgstr "Ajouter un horaire de vol"
+
+#: Template/FlightSchedules/edit.ctp:27 Template/FlightSchedules/view.ctp:15
+msgid "Edit Flight Schedule"
+msgstr "Modifier l'horaire de vol"
+
+#: Template/FlightSchedules/index.ctp:15 Template/FlightSchedules/view.ctp:18
+msgid "New Flight Schedule"
+msgstr "Nouvel horaire de vol"
+
+#: Template/FlightSchedules/index.ctp:26
+msgid "Flight Schedules"
+msgstr "Horaires de vol"
+
+#: Template/FlightSchedules/view.ctp:16
+msgid "Delete Flight Schedule"
+msgstr "Supprimer l'horaire de vol"
+
+#: Template/FlightSchedules/view.ctp:37 Template/Pilots/view.ctp:82
+msgid "Pilot"
+msgstr "Pilote"
+
+#: Template/FlightSchedules/view.ctp:53
+msgid "Flight Name"
+msgstr "Nouvel horaire de vol"
+
+#: Template/FlightSchedules/view.ctp:65
+msgid "Departure Time"
+msgstr "Heure de départ"
+
+#: Template/FlightSchedules/view.ctp:69
+msgid "Arrival Time"
+msgstr "Heure d'arrivée"
+
+#: Template/Hangars/add.ctp:20
+msgid "Add Hangar"
+msgstr "Ajouter hangar"
+
+#: Template/Hangars/edit.ctp:28 Template/Hangars/view.ctp:15
+msgid "Edit Hangar"
+msgstr "Editer hangar"
+
+#: Template/Hangars/index.ctp:15 Template/Hangars/view.ctp:18
+msgid "New Hangar"
+msgstr "Nouveau hangar"
+
+#: Template/Hangars/index.ctp:26
+msgid "Hangars"
+msgstr "Hangars"
+
+#: Template/Hangars/view.ctp:16
+msgid "Delete Hangar"
+msgstr "Supprimer hangar"
+
+#: Template/Hangars/view.ctp:45
+msgid "Code"
+msgstr "Code"
+
+#: Template/Hangars/view.ctp:49 Template/Users/view.ctp:144
+msgid "Hangar Size"
+msgstr "Taille du hangar"
+
+#: Template/Hangars/view.ctp:72 Template/Users/view.ctp:63
+msgid "Airline Id"
+msgstr "Id de la Compagnie Aérienne"
+
+#: Template/Layout/default.ctp:61
+msgid "Administrator - "
+msgstr "Administrateur - "
+
+#: Template/Layout/default.ctp:63
+msgid "Air traffic controller - "
+msgstr "Contrôleur aérien - "
+
+#: Template/Layout/default.ctp:67
+msgid "My Profile"
+msgstr "Mon profil"
+
+#: Template/Layout/default.ctp:70
+msgid "All the Users"
+msgstr "Tous les utilisateurs"
+
+#: Template/Layout/default.ctp:73 Template/Users/login.ctp:18;23
+msgid "Login"
+msgstr "Connexion"
+
+#: Template/Layout/default.ctp:75
+msgid "Register"
+msgstr "Créer un compte"
+
+#: Template/Layout/default.ctp:78
+msgid "About this app"
+msgstr "A propos"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erreur"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Retour"
+
+#: Template/Pilots/add.ctp:20
+msgid "Add Pilot"
+msgstr "Ajouter un pilote"
+
+#: Template/Pilots/edit.ctp:14 Template/Pilots/index.ctp:48
+#: Template/Pilots/view.ctp:16 Template/Users/view.ctp:184
+msgid "Are you sure you want to delete {0} {1}?"
+msgstr "Êtes-vous sûr de vouloir supprimer {0} {1}?"
+
+#: Template/Pilots/edit.ctp:28 Template/Pilots/view.ctp:15
+msgid "Edit Pilot"
+msgstr "Edit pilote"
+
+#: Template/Pilots/index.ctp:15 Template/Pilots/view.ctp:18
+msgid "New Pilot"
+msgstr "Nouveau pilote"
+
+#: Template/Pilots/index.ctp:26
+msgid "Pilots"
+msgstr "Pilotes"
+
+#: Template/Pilots/view.ctp:16
+msgid "Delete Pilot"
+msgstr "Supprimer le pilote"
+
+#: Template/Pilots/view.ctp:48 Template/Users/view.ctp:168
+msgid "Licence Number"
+msgstr "Numéro de licence"
+
+#: Template/Pilots/view.ctp:52 Template/Users/view.ctp:169
+msgid "First Name"
+msgstr "Prénom"
+
+#: Template/Pilots/view.ctp:56 Template/Users/view.ctp:170
+msgid "Last Name"
+msgstr "Nom"
+
+#: Template/Pilots/view.ctp:60 Template/Users/view.ctp:171
+msgid "Gender"
+msgstr "Genre"
+
+#: Template/Pilots/view.ctp:83
+msgid "Aircraft Id"
+msgstr "Id de l'Avion"
+
+#: Template/Users/add.ctp:21
+msgid "Add User"
+msgstr "Ajouter un Utilisateur"
+
+#: Template/Users/edit.ctp:28 Template/Users/view.ctp:16
+msgid "Edit User"
+msgstr "Modifier l'utilisateur"
+
+#: Template/Users/error_confirm.ctp:21
+msgid "You need to confirm your email to access all the functionalities"
+msgstr ""
+"Vous devez confirmer votre email pour accéder à toutes les fonctionnalités"
+
+#: Template/Users/error_confirm.ctp:22
+msgid "You can't :"
+msgstr "Vous ne pouvez pas :"
+
+#: Template/Users/error_confirm.ctp:24
+msgid "Add a new element (Aircraft, airline, etc.)"
+msgstr "Ajouter un nouvel élément (Avion, compagnie aérienne, etc.)"
+
+#: Template/Users/error_confirm.ctp:25
+msgid "Edit your account"
+msgstr "Modifier votre compte"
+
+#: Template/Users/error_confirm.ctp:29
+msgid "Send back the confirmation email"
+msgstr "Renvoyer l'email de confirmation"
+
+#: Template/Users/error_confirm.ctp:31
+msgid "Continue anyway"
+msgstr "Continuez quand même"
+
+#: Template/Users/index.ctp:15 Template/Users/view.ctp:20
+msgid "New User"
+msgstr "Nouvel utilisateur"
+
+#: Template/Users/index.ctp:27
+msgid "Users"
+msgstr "Utilisateurs"
+
+#: Template/Users/index.ctp:33 Template/Users/view.ctp:45
+msgid "Rank"
+msgstr "Rang"
+
+#: Template/Users/index.ctp:54
+msgid "Delete the account"
+msgstr "Supprimer le compte"
+
+#: Template/Users/index.ctp:54
+msgid "Are you sure you want to delete the account, {0}?"
+msgstr "Êtes-vous sûr de vouloir supprimer {0} {1}?"
+
+#: Template/Users/view.ctp:17
+msgid "Delete User"
+msgstr "Supprimer l'utilisateur"
+
+#: Template/Users/view.ctp:21
+msgid "List Users"
+msgstr "Liste des utilisateurs"
+
+#: Template/Users/view.ctp:37
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+#: Template/Users/view.ctp:41
+msgid "Email"
+msgstr "Courriel"
+
+#: Template/Users/view.ctp:46
+msgid "Administrator"
+msgstr "Gestionnaire"
+
+#: Template/Users/view.ctp:46
+msgid "Air traffic controller"
+msgstr "Contrôleur aérien"
+
+#: Template/Users/view.ctp:85
+msgid "Related Airlines"
+msgstr "Compagnies aériennes associées"
+
+#: Template/Users/view.ctp:115
+msgid "Aircraft id"
+msgstr "Id de l'Avion"
+
+#: Template/Users/view.ctp:139
+msgid "Related Hangars"
+msgstr "Hangars connexes"
+
+#: Template/Users/view.ctp:143
+msgid "Hangar Code"
+msgstr "Code hangar"
+
+#: Template/Users/view.ctp:164
+msgid "Related Pilots"
+msgstr "Pilotes associés"
+
+#~ msgid "The requested address {0} was not found on this server."
+#~ msgstr "L'adresse demandée {0} n'a pas été trouvée sur ce serveur."
+
+#~ msgid "An Internal Error Has Occurred"
+#~ msgstr "Une erreur interne s'est produite"
+
+#~ msgid "You are not authorized to access that location."
+#~ msgstr "Vous n'êtes pas autorisé à accéder à cet endroit."
+
+#~ msgid "Missing CSRF token cookie"
+#~ msgstr "Cookies token CSRF manquants"
+
+#~ msgid "CSRF token mismatch."
+#~ msgstr "Non-appariement symbolique du token CSRF."
+
+#~ msgid "Not Found"
+#~ msgstr "Non trouvé"
+
+#~ msgid "An Internal Error Has Occurred."
+#~ msgstr "Une erreur interne s'est produite."
+
+#~ msgid "The requested file contains `..` and will not be read."
+#~ msgstr "Le fichier demandé contient `...` et ne sera pas lu."
+
+#~ msgid "The requested file was not found"
+#~ msgstr "Le fichier demandé n'a pas été trouvé"
+
+#~ msgid "{0} from now"
+#~ msgstr "{0} à partir de maintenant"
+
+#~ msgid "{0} after"
+#~ msgstr "{0} après"
+
+#~ msgid "{0} before"
+#~ msgstr "{0} avant"
+
+#~ msgid "just now"
+#~ msgstr "maintenant"
+
+#~ msgid "about a second ago"
+#~ msgstr "Il y a environ une seconde"
+
+#~ msgid "about a minute ago"
+#~ msgstr "Il y a environ une minute"
+
+#~ msgid "about an hour ago"
+#~ msgstr "Il y a environ 1 heure"
+
+#~ msgid "about a day ago"
+#~ msgstr "Il y a environ un jour"
+
+#~ msgid "about a week ago"
+#~ msgstr "Il y a environ une semaine"
+
+#~ msgid "about a month ago"
+#~ msgstr "Il y a environ un mois"
+
+#~ msgid "about a year ago"
+#~ msgstr "Il y a environ un an"
+
+#~ msgid "in about a second"
+#~ msgstr "dans environ une seconde"
+
+#~ msgid "in about a minute"
+#~ msgstr "dans environ une minute"
+
+#~ msgid "in about an hour"
+#~ msgstr "dans environ une heure"
+
+#~ msgid "in about a day"
+#~ msgstr "dans environ un jour"
+
+#~ msgid "in about a week"
+#~ msgstr "dans environ une semaine"
+
+#~ msgid "in about a month"
+#~ msgstr "dans environ un mois"
+
+#~ msgid "in about a year"
+#~ msgstr "dans environ un an"
+
+#~ msgid "today"
+#~ msgstr "aujourd'hui"
+
+#~ msgid "%s ago"
+#~ msgstr "Il y a %s"
+
+#~ msgid "on %s"
+#~ msgstr "sur %s"
+
+#~ msgid "{0} year"
+#~ msgid_plural "{0} years"
+#~ msgstr[0] "{0} année"
+#~ msgstr[1] "{0} années"
+
+#~ msgid "{0} month"
+#~ msgid_plural "{0} months"
+#~ msgstr[0] "{0} mois"
+#~ msgstr[1] "{0} mois"
+
+#~ msgid "{0} week"
+#~ msgid_plural "{0} weeks"
+#~ msgstr[0] "{0} semaine"
+#~ msgstr[1] "{0} semaines"
+
+#~ msgid "{0} day"
+#~ msgid_plural "{0} days"
+#~ msgstr[0] "{0} jour"
+#~ msgstr[1] "{0} jours"
+
+#~ msgid "{0} hour"
+#~ msgid_plural "{0} hours"
+#~ msgstr[0] "{0} heure"
+#~ msgstr[1] "{0} heures"
+
+#~ msgid "{0} minute"
+#~ msgid_plural "{0} minutes"
+#~ msgstr[0] "{0} minute"
+#~ msgstr[1] "{0} minutes"
+
+#~ msgid "{0} second"
+#~ msgid_plural "{0} seconds"
+#~ msgstr[0] "{0} seconde"
+#~ msgstr[1] "{0} secondes"
+
+#~ msgid "This value is already in use"
+#~ msgstr "Cette valeur est déjà utilisée"
+
+#~ msgid "This value does not exist"
+#~ msgstr "Cette valeur est déjà utilisée"
+
+#~ msgid "The count does not match {0}{1}"
+#~ msgstr "Le nombre ne correspond pas à {0} {1}"
+
+#~ msgid "and"
+#~ msgstr "et"
+
+#~ msgid "This field is required"
+#~ msgstr "Ce champ est requis"
+
+#~ msgid "This field cannot be left empty"
+#~ msgstr "Ce champ ne peut pas être laissé vide"
+
+#~ msgid "The provided value is invalid"
+#~ msgstr "Cette valeur est déjà utilisée"
+
+#~ msgid "Edit {0}"
+#~ msgstr "Modifier {0}"
+
+#~ msgid "New {0}"
+#~ msgstr "Nouveau {0}"
+
+#~ msgid "Home"
+#~ msgstr "Accueil"
+
+#~ msgid "January"
+#~ msgstr "Janvier"
+
+#~ msgid "February"
+#~ msgstr "Février"
+
+#~ msgid "March"
+#~ msgstr "Mars"
+
+#~ msgid "April"
+#~ msgstr "Avril"
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "June"
+#~ msgstr "Juin"
+
+#~ msgid "July"
+#~ msgstr "Juillet"
+
+#~ msgid "August"
+#~ msgstr "Août"
+
+#~ msgid "September"
+#~ msgstr "Septembre"
+
+#~ msgid "October"
+#~ msgstr "Octobre"
+
+#~ msgid "November"
+#~ msgstr "Novembre"
+
+#~ msgid "December"
+#~ msgstr "Décembre"
